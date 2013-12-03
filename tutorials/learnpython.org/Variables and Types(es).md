@@ -56,7 +56,7 @@ Mezclando operadores entre los numeros y cadenas que no son soportadas:
 
 ### Ejercicio
 
-The target of this exercise is to create a string, an integer, and a floating point number. The string should be named mystring and should contain the word "hello". The floating point number should be named myfloat and should contain the number 10, and the integer should be named myint and should contain the number 20. 
+El objetivo de este ejercicio es crear una cadena, un entero, y un número de punto flotante. La cadena debe ser nombrada mystring y debe contener la palabra "hola". El número flotante debe ser nombrado myFloat y debe contener el número 10, y el entero debe ser nombrado Myint y debe contener el número 20. 
 
 Tutorial Code
 -------------
