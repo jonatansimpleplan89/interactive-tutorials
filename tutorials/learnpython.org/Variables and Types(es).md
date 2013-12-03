@@ -32,7 +32,7 @@ La diferencia ente las dos es que usando doble comillas lo hace mas facil de inc
 
         micadena = "No te preocupes de los 'apostofres' usando comillas dobles"
 
-There are additional variations on defining strings that make it easier to include things such as carriage returns, backslashes and Unicode characters. These are beyond the scope of this tutorial, but are covered in the [Python documentation](http://docs.python.org/tutorial/introduction.html#strings "Strings in Python Tutorial"). 
+Hay variaciones adicionales en la definición de las cadenas que lo hacen más fácil para incluir cosas tales como  returns,  barras invertidas y caracteres Unicode. Esa documentacion no la abordaremos en este tutorialpero se incluyen en la documentación de Python. [Python documentation](http://docs.python.org/tutorial/introduction.html#strings "Strings in Python Tutorial"). 
 
 Operadores sencillos pueden ser ejecutados en números o cadenas:
 
